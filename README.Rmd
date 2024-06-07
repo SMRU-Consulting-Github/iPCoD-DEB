@@ -1,31 +1,32 @@
 ---
-title: "Interim population consequences of disturbance model including dynamic energy budget (iPCoD + DEB)"
-subtitle: Lalala
-output:
-  html_document:
-    df_print: paged
-always_allow_html: yes
+output: github_document
+#bibliography: inst/narwind_ref.bib
 ---
 
-\begin{center}
-\textbf{SMRU Consulting}
-\end{center}
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-\normalsize
-\vspace{2cm}
-
-
-```{r setup, include=FALSE, quietly=T, warning=F}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)#echo = FALSE
-#\captionsetup[table]{labelformat=empty}
-rm(list = ls())
-library(jpeg)
-library(ggplot2) 
-library(knitr)
-library(kableExtra)
-library(xtable)
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
 ```
 
-```{r, echo=F, out.height="15%", fig.align='center'}
-include_graphics("CONSULTING+LOGO-01.png")
-```
+# narwind: Offshore wind impacts on North Atlantic right whales
+
+<!-- badges: start -->
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=flat-square)](https://www.tidyverse.org/lifecycle/#maturing) [![status](https://img.shields.io/badge/repo%20status-active-green.svg?style=flat-square)](https://www.repostatus.org/#active)
+
+<!-- badges: end -->
+
+## Background
+
+## Getting started
+
+## Funding
+
+## Acknowledgements
+
