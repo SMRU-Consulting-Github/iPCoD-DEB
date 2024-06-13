@@ -14,14 +14,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-# narwind: Offshore wind impacts on North Atlantic right whales
-
-<!-- badges: start -->
-
-[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=flat-square)](https://www.tidyverse.org/lifecycle/#maturing) [![status](https://img.shields.io/badge/repo%20status-active-green.svg?style=flat-square)](https://www.repostatus.org/#active)
-
-<!-- badges: end -->
-
 ## Background
 
 ## Getting started
