@@ -1,5 +1,0 @@
-rm(list = ls())
-source('config_iPCoD+DEB.R')
-source('MakeInitScenarioHP_iPCOD+DEB.R')
-source('DEB_bootstrap.R')
-save(pmean,stochastic_R,density_dependence,fixed_disturbance_duration,vulnmean,pile_years,years,nboot,burnin_end,population_size,population_size_d,dat.out, file = paste(spec, run_ID,'_Output.rdata', sep = ''))

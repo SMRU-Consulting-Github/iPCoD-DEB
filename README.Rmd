@@ -17,6 +17,7 @@ iPCoD + DEB is the iPCoD 5.2 where the transfer functions were replaced by the u
 
 ## Getting started and use of the model
 
+To download the newest version of the code, check the 'Releases' to the right.
 The iPCoD v5.2 has been widely used as part of assessments of the impact of disturbance on UK cetacean populations. We have therefore ensured that the iPCoD+DEB v1.0 closely resembles the current version which was informed by expert elicitation. This should allow users to run both versions of iPCoD with no additional training and with almost identical sets of input values.
 Please refer to the Helpfile folder to see how to install and use the model. Please refer to the licence file to get an overview of who can use the model and how. 
 
