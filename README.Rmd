@@ -1,3 +1,6 @@
+```{r, echo=F, out.height="10%", fig.align='center'}
+include_graphics("CONSULTING+LOGO-01.png")
+```
 
 # iPCoD + DEB: interim Population Consequences of Disturbance including Dynamic Energy Budget
 
